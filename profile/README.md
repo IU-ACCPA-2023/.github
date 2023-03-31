@@ -12,3 +12,11 @@ All templates contain grammer files, parsers, AST definitions, a stub implementa
 - 🚧 [TypeScript](https://github.com/IU-ACCPA-2023/stella-implementation-in-typescript) — working with CST (instead of AST)
 - 🚧 [Go](https://github.com/IU-ACCPA-2023/stella-implementation-in-go) — working with CST (instead of AST)
 - 🚧 [Python](https://github.com/IU-ACCPA-2023/stella-implementation-in-Python) — working with CST (instead of AST)
+
+Wishlist for the future:
+- Scala
+- Clojure
+- C#
+- F#
+- Dart
+- PureScript
